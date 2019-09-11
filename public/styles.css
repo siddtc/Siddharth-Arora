@@ -281,6 +281,8 @@ figure.effect {
 figure.effect img {
 	width: -webkit-calc(100% + 20px);
 	width: calc(100% + 20px);
+	height: -webkit-calc(230px);
+	height: 230px;
 	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
 	transition: opacity 0.35s, transform 0.35s;
 	-webkit-transform: translate3d(-10px,0,0);
